@@ -35,10 +35,10 @@
   
     
         ,"post3": {
-            "title": "Introducing fastpages",
+            "title": "Ahh! bears everywhere",
             "content": ". We are very pleased to announce the immediate availability of fastpages. fastpages is a platform which allows you to create and host a blog for free, with no ads and many useful features, such as: . Create posts containing code, outputs of code (which can be interactive), formatted text, etc directly from Jupyter Notebooks; for instance see this great example post from Scott Hawley. Notebook posts support features such as: Interactive visualizations made with Altair remain interactive. | Hide or show cell input and output. | Collapsable code cells that are either open or closed by default. | Define the Title, Summary and other metadata via a special markdown cells | Ability to add links to Colab and GitHub automatically. | . | Create posts, including formatting and images, directly from Microsoft Word documents. | Create and edit Markdown posts entirely online using GitHub&#39;s built-in markdown editor. | Embed Twitter cards and YouTube videos. | Categorization of blog posts by user-supplied tags for discoverability. | ... and much more | . fastpages relies on Github pages for hosting, and Github Actions to automate the creation of your blog. The setup takes around three minutes, and does not require any technical knowledge or expertise. Due to built-in automation of fastpages, you don&#39;t have to fuss with conversion scripts. All you have to do is save your Jupyter notebook, Word document or markdown file into a specified directory and the rest happens automatically. Infact, this blog post is written in a Jupyter notebook, which you can see with the &quot;View on GitHub&quot; link above. . fast.ai have previously released a similar project called fast_template, which is even easier to set up, but does not support automatic creation of posts from Microsoft Word or Jupyter notebooks, including many of the features outlined above. . Because fastpages is more flexible and extensible, we recommend using it where possible. fast_template may be a better option for getting folks blogging who have no technical expertise at all, and will only be creating posts using Github&#39;s integrated online editor. .",
-            "url": "https://mustafeez27.github.io/fastblog/fastpages/jupyter/2020/01/01/WMintro.html",
-            "relUrl": "/fastpages/jupyter/2020/01/01/WMintro.html",
+            "url": "https://mustafeez27.github.io/fastblog/resnet/classification/transfer%20learning/2020/01/01/WMintro.html",
+            "relUrl": "/resnet/classification/transfer%20learning/2020/01/01/WMintro.html",
             "date": " • Jan 1, 2020"
         }
         
