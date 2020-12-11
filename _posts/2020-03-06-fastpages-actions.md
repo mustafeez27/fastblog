@@ -1,5 +1,5 @@
 ---
-title: "GitHub Actions: Providing Data Scientists With New Superpowers"
+title: "REFERENCE: GitHub Actions"
 description: A Tutorial on GitHub <a href="https://github.com/features/actions">Actions</a> For Data Scientists
 toc: true
 comments: true
